@@ -31,5 +31,14 @@ node invoke.js //Invoke Requests and create transaction
 node query.js  // query parts Data and Product details and also owner data 
 ```
 
+## Ledger Data Folder 
+  This folder contains World state Data in Couchdb ScreenShots and also the query Result ScreenShot
+ ## Couchdb Explorer 
+ To view world state in Couchdb
+ Explorer address: http://{Host}:7984/_utils/#database/ 
+ Replace host with IP address in which you are hosting the network
+ 
+ 
+
 
 
