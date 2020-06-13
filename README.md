@@ -4,7 +4,15 @@ check whether you have these prereqs as mentioned link below or else download th
 https://hyperledger-fabric.readthedocs.io/en/release/prereqs.html
 
 Download the Binaries Of hyperledger Fabric Using the Command:
+```
 curl -sSL https://bit.ly/2ysbOFE | bash -s -- 2.1.1 1.4.7 0.4.20
+```
+## supported OS 
+ - Mac
+ - Linux
+
+
+keep the bin inside supplyChain Folder
 
 ## Bringing-up the Fabric-Network and deploying Chaincodes in it
 
